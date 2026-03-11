@@ -15,6 +15,7 @@ A lightweight search engine for **English Wikipedia articles**. This project run
 ```bash
 docker build -t wiki-search .
 docker run -p 8080:8080 wiki-search
+``` 
 
 Access the API
 
